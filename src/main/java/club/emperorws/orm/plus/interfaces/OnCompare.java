@@ -6,7 +6,7 @@ import java.io.Serializable;
  * table join on condition
  * 暂时只实现equals，如有需要，后续再加
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/4/10 15:23
  * @description: OnCompare: table join on condition
  */

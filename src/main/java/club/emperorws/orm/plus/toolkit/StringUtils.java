@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.joining;
 /**
  * 自定义String工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 00:26
  **/
 public class StringUtils {

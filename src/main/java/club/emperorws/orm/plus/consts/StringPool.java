@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.consts;
 /**
  * ORM PLUS常用String值
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 17:55
  **/
 public interface StringPool {

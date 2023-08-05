@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
 /**
  * Jdbc工具类
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 16:10
  * @description: JdbcUtils: Jdbc工具类
  */

@@ -5,7 +5,7 @@ import static club.emperorws.orm.plus.consts.StringPool.*;
 /**
  * todo
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 01:17
  **/
 public class SqlScriptUtils {

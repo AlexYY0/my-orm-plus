@@ -14,7 +14,7 @@ import java.util.Objects;
  * 最顶层SQL条件封装类
  *
  * @param <T> 需要封装查询的实体类
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 18:13
  **/
 public abstract class Wrapper<T> implements ISqlSegment {

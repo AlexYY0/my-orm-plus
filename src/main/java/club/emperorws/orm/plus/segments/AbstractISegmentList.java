@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * SQL片段集合处理抽象类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 22:13
  **/
 public abstract class AbstractISegmentList extends ArrayList<ISqlSegment> implements ISqlSegment, StringPool {

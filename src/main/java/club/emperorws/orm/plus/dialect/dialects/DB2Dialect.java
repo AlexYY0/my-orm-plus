@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.exception.OrmPlusException;
 /**
  * todo DB2方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:08
  * @description: DB2Dialect: DB2方言处理器
  */

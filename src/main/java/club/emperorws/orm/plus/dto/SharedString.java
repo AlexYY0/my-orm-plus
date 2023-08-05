@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * SQL查询字段String封装
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 23:47
  **/
 public class SharedString implements Serializable {

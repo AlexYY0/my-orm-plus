@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * GROUP BY语句SQL片段
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 00:40
  **/
 public class GroupBySegmentList extends AbstractISegmentList {

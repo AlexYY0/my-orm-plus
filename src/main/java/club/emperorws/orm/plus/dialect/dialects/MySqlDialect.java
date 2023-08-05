@@ -13,7 +13,7 @@ import static club.emperorws.orm.plus.consts.SqlConstants.OFFSET_PARAM;
 /**
  * MySQL的方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:00
  * @description: MySqlDialect: MySQL的方言处理器
  */

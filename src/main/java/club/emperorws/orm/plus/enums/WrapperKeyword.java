@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.ISqlSegment;
 /**
  * todo wrapper内部使用枚举
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 23:16
  **/
 public enum WrapperKeyword implements ISqlSegment {

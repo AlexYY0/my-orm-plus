@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 /**
  * 基础DAO层
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2023.05.18 18:03
  **/
 public interface BaseMapper<T> {

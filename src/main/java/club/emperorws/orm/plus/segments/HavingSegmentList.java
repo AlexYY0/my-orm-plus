@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * HAVING语句SQL片段
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 00:40
  **/
 public class HavingSegmentList extends AbstractISegmentList {

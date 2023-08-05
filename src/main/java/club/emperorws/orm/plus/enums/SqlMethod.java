@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.enums;
 /**
  * BaseMapper定义好的SQL语句
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 10:24
  * @description: SqlMethod: BaseMapper定义好的SQL语句
  */

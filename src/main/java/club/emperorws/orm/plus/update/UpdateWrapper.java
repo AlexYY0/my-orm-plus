@@ -18,7 +18,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * Update 条件封装
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 15:53
  **/
 public class UpdateWrapper<T> extends AbstractWrapper<T, String, UpdateWrapper<T>>

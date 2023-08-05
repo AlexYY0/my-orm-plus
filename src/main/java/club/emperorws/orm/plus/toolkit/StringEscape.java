@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.toolkit;
 /**
  * StringEscape ，数据库字符串转义
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 02:32
  **/
 public class StringEscape {

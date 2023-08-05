@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * SQL 注入验证工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 17:32
  **/
 public class SqlInjectionUtils {

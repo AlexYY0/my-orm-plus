@@ -8,7 +8,7 @@ import java.util.function.Consumer;
 /**
  * sql的from查询，包括from子查询和join查询
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/4/10 14:59
  * @description: From: sql的from查询，包括from子查询和join查询
  */

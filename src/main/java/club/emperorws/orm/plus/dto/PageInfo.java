@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 分页相关数据
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.13 15:49
  **/
 public class PageInfo<T> implements Serializable {

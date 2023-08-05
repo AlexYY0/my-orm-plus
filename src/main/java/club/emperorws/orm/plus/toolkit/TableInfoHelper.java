@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 /**
  * 获取ORM中数据库与实体的映射关系
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.19 11:06
  **/
 public class TableInfoHelper {

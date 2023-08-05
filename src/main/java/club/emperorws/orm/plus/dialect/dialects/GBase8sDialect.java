@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.exception.OrmPlusException;
 /**
  * GBase 8s V8.8方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:14
  * @description: GBase8sDialect:
  */

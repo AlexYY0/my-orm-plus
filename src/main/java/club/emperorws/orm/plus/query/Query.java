@@ -11,7 +11,7 @@ import java.util.function.Predicate;
  * @param <Children> this
  * @param <T>        实体类型
  * @param <R>        查询字段的类型（一般为String）
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 02:43
  **/
 public interface Query<Children, T, R> extends Serializable {

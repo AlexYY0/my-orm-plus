@@ -5,7 +5,7 @@ import club.emperorws.orm.mapping.SqlSource;
 /**
  * SqlSource辅助工具类
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/6/30 17:39
  * @description: SqlSourceHelper: SqlSource辅助工具类
  */

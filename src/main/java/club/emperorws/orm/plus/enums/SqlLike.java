@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.enums;
 /**
  * SQL like 枚举
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 01:32
  **/
 public enum SqlLike {

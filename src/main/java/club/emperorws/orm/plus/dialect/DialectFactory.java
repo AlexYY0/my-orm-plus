@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * 数据库方言工厂
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 14:42
  * @description: DialectFactory: 数据库方言工厂
  */

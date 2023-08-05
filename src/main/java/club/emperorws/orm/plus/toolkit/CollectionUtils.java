@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * Collection工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 00:45
  **/
 public class CollectionUtils {

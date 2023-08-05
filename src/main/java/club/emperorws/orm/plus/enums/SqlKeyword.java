@@ -6,7 +6,7 @@ import club.emperorws.orm.plus.consts.StringPool;
 /**
  * SQL保留关键字枚举值
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 17:51
  **/
 public enum SqlKeyword implements ISqlSegment {

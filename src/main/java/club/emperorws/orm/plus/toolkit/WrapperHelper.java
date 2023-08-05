@@ -6,7 +6,7 @@ import club.emperorws.orm.plus.update.UpdateWrapper;
 /**
  * Wrapper查询创建帮助类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.19 09:43
  **/
 public class WrapperHelper {

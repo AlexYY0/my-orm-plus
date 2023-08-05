@@ -7,7 +7,7 @@ import java.util.function.BiPredicate;
 /**
  * 比较查询条件封装
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 18:42
  **/
 public interface Compare<Children, R> extends Serializable {

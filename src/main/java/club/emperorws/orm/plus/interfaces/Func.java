@@ -8,7 +8,7 @@ import java.util.function.Consumer;
 /**
  * 特殊SQL语法函数SQL拼接
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 19:44
  **/
 public interface Func<Children, R> extends Serializable {

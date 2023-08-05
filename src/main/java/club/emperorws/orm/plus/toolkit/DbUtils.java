@@ -15,7 +15,7 @@ import java.lang.reflect.InvocationTargetException;
 /**
  * 数据库相关工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.11.28 11:37
  **/
 public class DbUtils {

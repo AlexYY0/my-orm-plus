@@ -11,7 +11,7 @@ import static club.emperorws.orm.plus.consts.SqlConstants.FROM;
 /**
  * 存储from的sql片段集合
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/4/11 10:12
  * @description: FromSegmentList: 存储from的sql片段集合
  */

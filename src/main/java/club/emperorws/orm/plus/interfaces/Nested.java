@@ -8,7 +8,7 @@ import java.util.function.Consumer;
  *
  * @param <Param>    wrapper的字类，嵌套查询的函数方法所有
  * @param <Children> Nested Self
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 18:23
  **/
 public interface Nested<Param, Children> extends Serializable {

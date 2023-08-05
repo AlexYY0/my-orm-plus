@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.ISqlSegment;
 /**
  * sql join枚举
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/4/10 16:01
  * @description: SqlJoin: sql join枚举
  */

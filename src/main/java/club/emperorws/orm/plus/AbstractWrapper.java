@@ -26,7 +26,7 @@ import static java.util.stream.Collectors.joining;
  * @param <T>        需要封装查询的实体类
  * @param <R>        DB Table列的名称属性（一般为String）
  * @param <Children> 子查询封装类
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 18:10
  **/
 public abstract class AbstractWrapper<T, R, Children extends AbstractWrapper<T, R, Children>> extends Wrapper<T>

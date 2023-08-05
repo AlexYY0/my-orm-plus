@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * 雪花算法的实现
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.10.18 16:36
  **/
 public class SnowFlakeId {

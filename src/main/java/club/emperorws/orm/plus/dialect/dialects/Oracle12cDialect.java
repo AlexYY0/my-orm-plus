@@ -6,7 +6,7 @@ import static club.emperorws.orm.plus.consts.SqlConstants.OFFSET_PARAM;
 /**
  * Oracle新版本方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:08
  * @description: Oracle12cDialect: Oracle新版本方言处理器
  */

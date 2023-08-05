@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.dialect;
 /**
  * 数据库类型枚举（为数据库方言做准备）
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 14:55
  * @description: DbType: 数据库类型枚举（为数据库方言做准备）
  */

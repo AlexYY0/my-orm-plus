@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.toolkit;
 /**
  * ArrayUtils工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 00:51
  **/
 public class ArrayUtils {

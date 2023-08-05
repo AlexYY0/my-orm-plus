@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.exception.OrmPlusException;
 /**
  * Informix方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:14
  * @description: InformixDialect: Informix方言处理器
  */

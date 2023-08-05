@@ -10,7 +10,7 @@ import java.util.function.Predicate;
 /**
  * 片段匹配判断
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 23:03
  **/
 public enum MatchSegment {

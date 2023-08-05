@@ -6,7 +6,7 @@ import club.emperorws.orm.plus.enums.SqlLike;
 /**
  * SqlUtils工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 01:52
  **/
 public class SqlUtils implements SqlConstants {

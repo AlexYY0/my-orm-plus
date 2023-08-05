@@ -7,7 +7,7 @@ import java.io.Serializable;
  *
  * @param <Children> this
  * @param <R>        查询字段的类型（一般为String）
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 03:00
  **/
 public interface Update<Children, R> extends Serializable {

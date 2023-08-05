@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * ORM PLUS常用常量
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 01:36
  **/
 public interface SqlConstants extends StringPool, Serializable {

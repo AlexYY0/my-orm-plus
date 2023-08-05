@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.dto.PageInfo;
 /**
  * 创建分页信息工具类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 22:34
  **/
 public class PageHelper {

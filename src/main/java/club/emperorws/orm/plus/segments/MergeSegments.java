@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 合并SQL片段为SQL语句
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 22:08
  **/
 public class MergeSegments implements ISqlSegment {

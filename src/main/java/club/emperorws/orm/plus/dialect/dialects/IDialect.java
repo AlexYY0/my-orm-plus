@@ -3,7 +3,7 @@ package club.emperorws.orm.plus.dialect.dialects;
 /**
  * 数据库方言SQL语句的处理顶层接口
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 14:43
  * @description: IDialect: 数据库方言SQL语句的处理顶层接口
  */

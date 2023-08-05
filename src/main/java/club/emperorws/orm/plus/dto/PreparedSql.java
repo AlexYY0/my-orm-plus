@@ -6,7 +6,7 @@ import club.emperorws.orm.plus.toolkit.StringUtils;
 /**
  * 预编译好的Sql对象实体
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/4/12 9:57
  * @description: PreparedSql: 预编译好的Sql对象实体
  */

@@ -5,7 +5,7 @@ import club.emperorws.orm.plus.exception.OrmPlusException;
 /**
  * XCloud方言处理器
  *
- * @author: 892638
+ * @author: EmperorWS
  * @date: 2023/5/19 15:12
  * @description: XCloudDialect: XCloud方言处理器
  */

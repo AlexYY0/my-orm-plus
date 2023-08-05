@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * SQL语句拼接
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 19:41
  **/
 public interface Join<Children> extends Serializable {

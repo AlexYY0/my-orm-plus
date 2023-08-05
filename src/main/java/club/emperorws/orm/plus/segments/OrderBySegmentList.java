@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * ORDER BY语句SQL片段
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 00:49
  **/
 public class OrderBySegmentList extends AbstractISegmentList {

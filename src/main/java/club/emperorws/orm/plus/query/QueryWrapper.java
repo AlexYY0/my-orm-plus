@@ -20,7 +20,7 @@ import static club.emperorws.orm.plus.consts.StringPool.SPACE;
 /**
  * Entity 对象select查询封装操作类
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.18 03:09
  **/
 public class QueryWrapper<T> extends AbstractWrapper<T, String, QueryWrapper<T>>

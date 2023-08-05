@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * 普通SQL片段
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.17 00:01
  **/
 public class NormalSegmentList extends AbstractISegmentList {

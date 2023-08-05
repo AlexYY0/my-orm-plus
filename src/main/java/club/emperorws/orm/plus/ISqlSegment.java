@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 通用SQL片段接口（最顶层的接口）
  *
- * @author 892638
+ * @author EmperorWS
  * @date 2022.09.16 17:47
  **/
 @FunctionalInterface
